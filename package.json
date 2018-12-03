@@ -1,0 +1,14 @@
+{
+  "name": "telescopeapi",
+  "version": "1.0.0",
+  "description": "Experimenting with node web servers, API that calculates and returns information relating to telescope construction.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolas Allen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
